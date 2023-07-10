@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/civilization-idle/static/css/main.e6c13ad2.css",
+    "main.js": "/civilization-idle/static/js/main.7c3611f4.js",
+    "static/js/787.9eac433e.chunk.js": "/civilization-idle/static/js/787.9eac433e.chunk.js",
+    "index.html": "/civilization-idle/index.html",
+    "main.e6c13ad2.css.map": "/civilization-idle/static/css/main.e6c13ad2.css.map",
+    "main.7c3611f4.js.map": "/civilization-idle/static/js/main.7c3611f4.js.map",
+    "787.9eac433e.chunk.js.map": "/civilization-idle/static/js/787.9eac433e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c3611f4.js"
+  ]
+}
